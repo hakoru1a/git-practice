@@ -1,3 +1,5 @@
 cat env .sh/base.sh
 
 ls -lta
+
+docker ps
