@@ -1,1 +1,3 @@
 cat env .sh/base.sh
+
+ls -lta
